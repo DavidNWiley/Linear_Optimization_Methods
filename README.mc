@@ -1,1 +1,0 @@
-Cover both theoretical and numerical topics from advanced linear algebra and optimization with an emphasis on application. Topics: matric factorization, eigenvalues, interative methods, linear programming, descent methods, and neural networks.
