@@ -1,1 +1,1 @@
-Cover both theoretical and numerical topics from advanced linear algebra and optimization with an emphasis on application. Topics: matric factorization, eigenvalues, interative methods, linear programming, descent methods, and neural networks.
+MATH 3423 - A Course taken at the University of Houston - Downtown. This course overs both theoretical and numerical topics from advanced linear algebra and optimization with an emphasis on application. Topics: matric factorization, eigenvalues, interative methods, linear programming, descent methods, and neural networks.
